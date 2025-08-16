@@ -6,9 +6,9 @@
 
 ---
 
-Public Url of Project:- https://tds-project-2-data-analyst-production.up.railway.app
+> **Public Url of Project:- https://tds-project-2-data-analyst-production.up.railway.app**
 
-Public Url of Project with Api:- https://tds-project-2-data-analyst-production.up.railway.app/api
+> **Public Url of Project with Api:- https://tds-project-2-data-analyst-production.up.railway.app/api**
 
 ## 📌 **Overview**
 
