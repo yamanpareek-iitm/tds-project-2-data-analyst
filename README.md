@@ -6,6 +6,9 @@
 
 ---
 
+Public Url of Project:- https://tds-project-2-data-analyst-production.up.railway.app
+Public Url of Project with Api:- https://tds-project-2-data-analyst-production.up.railway.app/api
+
 ## 📌 **Overview**
 
 The **TDS Data Analyst Agent** transforms raw data into **actionable insights** in minutes.
@@ -34,7 +37,7 @@ Perfect for **business analysts, researchers, and data enthusiasts** who want **
 ---
 ## 👤 **Author & Credits**
 
-Developed with ❤️ by **[Gaurav Tomar](https://www.linkedin.com/in/gaurav-tomar-630b2a316)**
+Developed with  **[❤️](https://www.linkedin.com/in/gaurav-tomar-630b2a316)**
 
 ---
 ## 🚀 **Quick Start for more detail read `DEPLOYMENT_GUIDE.md` **
