@@ -2,11 +2,12 @@
 # 🌟 **TDS Project 2: Data Analyst Agent** — *AI-Powered Data Sidekick*
 
 > **A smart, interactive, and beautiful way to analyze your data — powered by Google Generative AI & cutting-edge Python tools.**
-> **Repo:** [📂 View on GitHub](https://github.com/23f1000805/tds-project-2)
+> **Repo:** [📂 View on GitHub](https://github.com/yamanpareek-iitm/tds-project-2-data-analyst)
 
 ---
 
 Public Url of Project:- https://tds-project-2-data-analyst-production.up.railway.app
+
 Public Url of Project with Api:- https://tds-project-2-data-analyst-production.up.railway.app/api
 
 ## 📌 **Overview**
